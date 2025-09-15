@@ -42,12 +42,12 @@ This project performs an end-to-end data science analysis of SpaceX launch missi
 - Ground pad landings: **92%** success rate
 
 ### Predictive Models Performance
-| Model | Accuracy | Precision | Recall | F1-Score |
-|-------|----------|-----------|---------|----------|
-| Decision Tree | 94.4% | 94.1% | 94.4% | 94.2% |
-| Random Forest | 96.1% | 96.3% | 96.1% | 96.2% |
-| SVM | 93.8% | 93.5% | 93.8% | 93.6% |
-| Logistic Regression | 92.7% | 92.4% | 92.7% | 92.5% |
+| Model | Test Accuracy |
+|-------|---------------|
+| Decision Tree | 83.3% |
+| Support Vector Machine (SVM) | 83.3% |
+| K-Nearest Neighbors (KNN) | 83.3% |
+| Logistic Regression | 83.3% |
 
 ## 📈 Notebooks Overview
 
