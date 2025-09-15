@@ -106,14 +106,6 @@ Applied_DS_Capstone_IBM/
 - Generates final predictions on test data
 - Provides model interpretation and feature importance
 
-## 🚀 Quick Start
-
-### Prerequisites
-```bash
-Python 3.7+
-pip install -r requirements.txt
-```
-
 ## 📊 Key Visualizations
 
 - **Launch Success Rate Trends**: Timeline analysis of SpaceX improvement
