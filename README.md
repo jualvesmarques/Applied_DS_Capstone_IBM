@@ -29,22 +29,6 @@ This project performs an end-to-end data science analysis of SpaceX launch missi
 - **Jupyter Notebooks**: Development environment
 - **Requests & BeautifulSoup**: Web scraping and API calls
 
-## 📊 Project Structure
-
-```
-Applied_DS_Capstone_IBM/
-├── README.md
-├── notebooks/
-│   ├── 01_data_collection_api.ipynb
-│   ├── 02_data_collection_webscraping.ipynb
-│   ├── 03_data_wrangling.ipynb
-│   ├── 04_eda_sql.ipynb
-│   ├── 05_eda_visualization.ipynb
-│   ├── 06_interactive_dashboard.ipynb
-│   ├── 07_predictive_analysis_classification.ipynb
-│   └── 08_machine_learning_prediction.ipynb
-```
-
 ## 🔍 Key Findings
 
 ### Launch Success Analysis
