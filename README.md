@@ -2,7 +2,8 @@
 
 
 # 🚀 SpaceX Launch Success Prediction Analysis
-Final course in the IBM Data Science Professional Certificate - Coursera
+Final course in the IBM Data Science Professional Certificate - Coursera.
+
 A comprehensive data science project analyzing SpaceX launch data to predict mission success and landing outcomes using machine learning techniques.
 
 ## 📋 Project Overview
